@@ -1,4 +1,4 @@
-mgmt_io: 10.0.0.111
+mgmt_io: 10.0.0.222
 SDN_ip: 10.20.2.2
 vlans:
   red:
